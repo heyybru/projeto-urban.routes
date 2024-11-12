@@ -59,7 +59,9 @@ A metodologia utilizada neste projeto de testes de regressão segue as práticas
 
 ---
 ### Resultados
-- **Total de Bugs Relatados:** 46
+
+- **Total de testes executados:** 119
+- **Total de Bugs Relatados:** 49
 - **Layout:** Pequenas discrepâncias na disposição dos elementos em diferentes resoluções.
 - **Funcionalidade:** Inconsistências nos pop-ups de confirmação foram reportadas.
 - **Recomendações:** Melhorar a consistência entre o design e os requisitos, e revisar a validação de campos de entrada.
