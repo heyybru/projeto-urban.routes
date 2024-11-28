@@ -7,6 +7,8 @@ Este projeto abrange a execução de testes de regressão no aplicativo Urban Ro
 **Contexto**
 O Urban Routes utiliza pontos de origem e destino inseridos pelo usuário para calcular a rota, tempo e custo da viagem através de algoritmos específicos. Testes de regressão são essenciais para assegurar que funcionalidades existentes continuem a operar corretamente após atualizações e correções.
 
+**Obs (EN-PT):** This project is in portuguese / Esse projeto está em português.
+
 ---
 
 ### Objetivos
@@ -19,7 +21,7 @@ O Urban Routes utiliza pontos de origem e destino inseridos pelo usuário para c
 
 ---
 
-### Ferramentas Utilizadas
+### Ferramentas e Tecnologias Utilizadas
 
 - Google Sheets: Documentação de casos de teste e checklists.
 - JIRA: Criação e gerenciamento de relatórios de bugs.
