@@ -84,10 +84,10 @@ A metodologia utilizada neste projeto de testes de regressão segue as práticas
 - Testes independentes.
 - Este projeto é fundamental para garantir a qualidade do Urban Routes, abordando desde testes de regressão até a validação de novos recursos. A metodologia ágil e a documentação detalhada dos testes contribuem para o aprimoramento contínuo da aplicação e a correção eficiente de problemas identificados.
 
-<img src="images/Image (1).png">
-<img src="images/Image (2).png">
-<img src="images/Image (3).png">
-<img src="images/Image.png">
+<img src="imagens/Image (1).png">
+<img src="imagens/Image (2).png">
+<img src="imagens/Image (3).png">
+<img src="imagens/Image.png">
 
 ---
 ### Melhorias Futuras
